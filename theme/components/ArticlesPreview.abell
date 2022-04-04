@@ -7,7 +7,7 @@
 				<article class="shadow">
 						<a href="${meta.$root}/${meta.$path}/">
 						<h3>${meta.title}</h3>
-						<div class="article-date">Veröffentlicht am ${meta.createdAt}</div>
+						<div class="article-date">Veröffentlicht am ${meta.createDate}</div>
 						<p class="article-description">${meta.description}</p>
 						</a>
 				</article>
