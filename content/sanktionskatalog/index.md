@@ -1,4 +1,6 @@
-<center>## My Hero Academia und meine Begeisterung für diesen Anime</center>
+<center>
+## My Hero Academia und meine Begeisterung für diesen Anime
+</center>
 
 Netflix, Amazon Prime Video, Disney+ und viele mehr – für all diese Dienste schloss ich bereits ein Abonnement ab. Ich war schon immer ein kleiner Serienjunkie, der täglich mehrere Stunden damit verbringen konnte, zuhause in seinem Bett zu liegen oder am Schreibtisch in einem dunklen Zimmer zu sitzen und eine Serie zu schauen. Serien nahmen mich schon immer emotional mit und zeigten mir, wie toll oder schlimm manche Character darin sein können.
 Anime faszinierte mich aber nie. Noch nie habe ich etwas weniger gemocht als dieses Genre. Aber dennoch konnte ich mich letztendlich doch dafür begeistern. Dieser Eintrag soll meine Faszination und Liebe für die Anime-Serie My Hero Academia widerspiegeln und aufschlüsseln.
