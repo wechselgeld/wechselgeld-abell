@@ -3,7 +3,7 @@ module.exports = {
   destinationPath: 'dist',
   contentPath: 'content',
   globalMeta: {
-    siteName: 'wechselgeld\s Blog',
+    siteName: 'wechselgeld\'s Blog',
     twitter: 'wechseIgeld',
     domain: 'https://blog.wechselgeld.xyz'
   }
