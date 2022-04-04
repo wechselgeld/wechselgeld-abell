@@ -8,7 +8,7 @@
     data-size="large"
   >
     <img width="20" style="position: relative;top:4px;" alt="Twitter Logo" src="{{ props.$root }}/static-assets/icons/twitter.svg"> 
-    &nbsp;Share on Twitter
+    &nbsp;Auf Twitter teilen
   </a>
 </template>
 <style>
