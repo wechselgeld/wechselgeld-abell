@@ -3,8 +3,8 @@ module.exports = {
   destinationPath: 'dist',
   contentPath: 'content',
   globalMeta: {
-    siteName: 'Abell Minima',
-    twitter: 'AbellLand',
-    domain: 'https://abell-starter-minima.netlify.app'
+    siteName: 'wechselgeld\s Blog',
+    twitter: 'wechseIgeld',
+    domain: 'https://blog.wechselgeld.xyz'
   }
 }
