@@ -1,7 +1,7 @@
 <AbellComponent>
 <template>
   <div class="content">
-    <h1>{{ props.meta.title }}</h1>
+    <center><h1>{{ props.meta.title }}</h1></center>
     <div class="blog-date">
       Veröffentlicht am {{ props.meta.$createdAt }}
     </div>
