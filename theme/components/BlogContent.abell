@@ -3,7 +3,7 @@
   <div class="content">
     <h1>{{ props.meta.title }}</h1>
     <div class="blog-date">
-      Published on {{ props.meta.$createdAt.toDateString() }}
+      Veröffentlicht am {{ props.meta.$createdAt }}
     </div>
 
     <div class="blog-text">
