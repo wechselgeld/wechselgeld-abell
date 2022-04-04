@@ -29,7 +29,7 @@
   <div class="header">
     <h1>{{ globalMeta.siteName }}</h1>
     <div class="header-bio">
-      <br/>wechselgeld findest Du auch auf Twitter <a href="https://twitter.com/{{ globalMeta.twitter }}">Twitter @{{ globalMeta.twitter }}</a>.
+      <br/>wechselgeld findest Du auch auf <a href="https://twitter.com/{{ globalMeta.twitter }}">Twitter @{{ globalMeta.twitter }}</a>.
     </div>
   </div>
 
