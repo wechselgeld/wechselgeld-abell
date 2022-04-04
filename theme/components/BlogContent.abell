@@ -3,8 +3,8 @@
   <div class="content">
     <center><h1>{{ props.meta.title }}</h1>
     <div class="blog-date">
-      Veröffentlicht am {{ props.meta.createDate }}
-      {{ props.meta.readTime }}
+      Veröffentlicht am {{ props.meta.createDate }}<br />
+      {{ props.meta.readTime }} Lesezeit
     </div></center>
 
     <div class="blog-text">
