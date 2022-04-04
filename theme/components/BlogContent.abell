@@ -4,6 +4,7 @@
     <center><h1>{{ props.meta.title }}</h1>
     <div class="blog-date">
       Veröffentlicht am {{ props.meta.createDate }}
+      {{ props.meta.readTime }}
     </div></center>
 
     <div class="blog-text">
